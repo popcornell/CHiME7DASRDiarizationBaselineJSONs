@@ -1,0 +1,2144 @@
+[
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "0.498",
+        "end_time": "5.746"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "8.210",
+        "end_time": "9.442"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "9.442",
+        "end_time": "9.779"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "10.488",
+        "end_time": "12.479"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "12.260",
+        "end_time": "14.116"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "20.782",
+        "end_time": "20.833"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "20.832",
+        "end_time": "21.44"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "21.440",
+        "end_time": "27.701"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "28.443",
+        "end_time": "34.923"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "36.020",
+        "end_time": "38.366"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "37.876",
+        "end_time": "39.647999999999996"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "39.597",
+        "end_time": "39.614000000000004"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "39.952",
+        "end_time": "53.013"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "53.840",
+        "end_time": "54.937000000000005"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "56.894",
+        "end_time": "59.998999999999995"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "60.404",
+        "end_time": "64.015"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "60.691",
+        "end_time": "60.759"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "64.420",
+        "end_time": "67.407"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "66.310",
+        "end_time": "75.237"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "75.170",
+        "end_time": "79.406"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "79.625",
+        "end_time": "80.452"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "80.452",
+        "end_time": "91.505"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "88.163",
+        "end_time": "89.125"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "90.425",
+        "end_time": "90.459"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "90.492",
+        "end_time": "101.14"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "97.647",
+        "end_time": "98.069"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "106.287",
+        "end_time": "110.0"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "110.000",
+        "end_time": "115.771"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "114.269",
+        "end_time": "114.438"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "114.505",
+        "end_time": "125.339"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "126.385",
+        "end_time": "129.001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "132.933",
+        "end_time": "135.093"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "136.173",
+        "end_time": "140.999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "138.215",
+        "end_time": "138.536"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "140.999",
+        "end_time": "142.147"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "143.092",
+        "end_time": "143.126"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "143.125",
+        "end_time": "144.998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "144.998",
+        "end_time": "149.807"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "155.883",
+        "end_time": "160.422"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "158.836",
+        "end_time": "159.579"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "162.717",
+        "end_time": "170.007"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "166.666",
+        "end_time": "167.02"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "170.007",
+        "end_time": "172.72400000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "173.821",
+        "end_time": "181.938"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "180.689",
+        "end_time": "182.495"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "181.938",
+        "end_time": "181.95499999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "182.495",
+        "end_time": "188.941"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "188.367",
+        "end_time": "188.50199999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "188.502",
+        "end_time": "191.354"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "192.687",
+        "end_time": "193.78400000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "192.772",
+        "end_time": "192.839"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "193.463",
+        "end_time": "193.581"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "193.582",
+        "end_time": "193.73399999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "195.590",
+        "end_time": "198.948"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "198.948",
+        "end_time": "199.758"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "199.758",
+        "end_time": "199.792"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "202.070",
+        "end_time": "204.719"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "207.925",
+        "end_time": "209.714"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "210.457",
+        "end_time": "217.35899999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "217.358",
+        "end_time": "222.15"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "220.143",
+        "end_time": "220.97"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "223.670",
+        "end_time": "226.47099999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "226.471",
+        "end_time": "227.214"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "227.213",
+        "end_time": "227.26399999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "229.357",
+        "end_time": "238.351"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "236.140",
+        "end_time": "238.01299999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "236.495",
+        "end_time": "238.284"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "239.296",
+        "end_time": "242.165"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "242.148",
+        "end_time": "242.924"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "244.358",
+        "end_time": "244.864"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "244.865",
+        "end_time": "255.37800000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "245.084",
+        "end_time": "245.151"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "245.152",
+        "end_time": "247.261"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "247.210",
+        "end_time": "247.227"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "253.117",
+        "end_time": "253.421"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "254.939",
+        "end_time": "255.411"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "258.871",
+        "end_time": "259.495"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "264.136",
+        "end_time": "268.625"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "269.705",
+        "end_time": "271.46"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "270.717",
+        "end_time": "277.062"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "270.768",
+        "end_time": "270.93699999999995"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "272.641",
+        "end_time": "273.451"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "274.818",
+        "end_time": "275.459"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "279.155",
+        "end_time": "283.66099999999994"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "285.635",
+        "end_time": "285.669"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "285.668",
+        "end_time": "293.954"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "290.292",
+        "end_time": "290.95"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "293.954",
+        "end_time": "294.545"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "294.460",
+        "end_time": "296.941"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "297.430",
+        "end_time": "300.586"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "299.438",
+        "end_time": "301.429"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "302.155",
+        "end_time": "303.33599999999996"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "302.273",
+        "end_time": "306.27200000000005"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "309.192",
+        "end_time": "320.802"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "322.068",
+        "end_time": "339.19599999999997"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "342.622",
+        "end_time": "357.675"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "358.298",
+        "end_time": "363.124"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "359.935",
+        "end_time": "360.357"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "363.125",
+        "end_time": "365.876"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "364.272",
+        "end_time": "366.989"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "366.432",
+        "end_time": "368.322"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "368.305",
+        "end_time": "368.339"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "368.322",
+        "end_time": "368.879"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "369.807",
+        "end_time": "383.796"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "376.220",
+        "end_time": "376.74300000000005"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "383.442",
+        "end_time": "383.779"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "384.725",
+        "end_time": "387.172"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "386.260",
+        "end_time": "387.796"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "389.467",
+        "end_time": "393.99"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "394.765",
+        "end_time": "398.174"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "398.174",
+        "end_time": "399.28799999999995"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "401.617",
+        "end_time": "411.118"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "408.350",
+        "end_time": "408.367"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "408.367",
+        "end_time": "409.548"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "410.695",
+        "end_time": "410.914"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "412.315",
+        "end_time": "412.872"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "413.783",
+        "end_time": "429.831"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "431.722",
+        "end_time": "435.34999999999997"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "433.814",
+        "end_time": "438.42100000000005"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "440.750",
+        "end_time": "448.411"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "448.411",
+        "end_time": "453.929"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "453.929",
+        "end_time": "456.967"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "456.207",
+        "end_time": "459.835"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "459.346",
+        "end_time": "465.084"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "461.810",
+        "end_time": "462.957"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "465.083",
+        "end_time": "470.51700000000005"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "468.239",
+        "end_time": "469.775"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "469.775",
+        "end_time": "469.859"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "470.517",
+        "end_time": "479.241"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "472.880",
+        "end_time": "472.998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "480.406",
+        "end_time": "493.60200000000003"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "483.342",
+        "end_time": "483.46"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "489.282",
+        "end_time": "489.721"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "496.150",
+        "end_time": "500.57099999999997"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "500.943",
+        "end_time": "505.33"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "500.960",
+        "end_time": "500.977"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "501.550",
+        "end_time": "503.238"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "504.250",
+        "end_time": "507.237"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "512.992",
+        "end_time": "515.169"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "516.434",
+        "end_time": "528.9549999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "529.512",
+        "end_time": "538.3879999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "537.528",
+        "end_time": "548.142"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "544.058",
+        "end_time": "544.514"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "544.514",
+        "end_time": "545.189"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "547.518",
+        "end_time": "562.773"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "552.665",
+        "end_time": "552.952"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "552.952",
+        "end_time": "553.492"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "557.508",
+        "end_time": "557.947"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "558.993",
+        "end_time": "559.094"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "561.457",
+        "end_time": "565.338"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "562.570",
+        "end_time": "562.604"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "564.359",
+        "end_time": "564.393"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "564.393",
+        "end_time": "578.399"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "565.000",
+        "end_time": "565.675"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "577.387",
+        "end_time": "577.454"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "578.568",
+        "end_time": "592.507"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "586.280",
+        "end_time": "586.651"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "592.507",
+        "end_time": "593.2489999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "594.751",
+        "end_time": "595.443"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "594.886",
+        "end_time": "596.641"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "595.443",
+        "end_time": "600.3199999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "599.560",
+        "end_time": "600.1679999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "602.463",
+        "end_time": "603.189"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "605.568",
+        "end_time": "617.735"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "617.735",
+        "end_time": "618.309"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "618.815",
+        "end_time": "631.6060000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "624.738",
+        "end_time": "625.008"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "631.606",
+        "end_time": "651.367"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "635.335",
+        "end_time": "636.094"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "644.262",
+        "end_time": "644.448"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "646.102",
+        "end_time": "646.153"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "662.555",
+        "end_time": "664.5459999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "665.828",
+        "end_time": "673.0"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "670.587",
+        "end_time": "671.211"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "671.043",
+        "end_time": "671.144"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "673.625",
+        "end_time": "678.704"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "677.894",
+        "end_time": "681.59"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "678.569",
+        "end_time": "678.636"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "680.392",
+        "end_time": "683.0920000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "681.286",
+        "end_time": "681.4209999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "683.902",
+        "end_time": "686.8720000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "687.479",
+        "end_time": "694.938"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "688.222",
+        "end_time": "689.386"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "693.014",
+        "end_time": "693.335"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "693.335",
+        "end_time": "693.807"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "694.381",
+        "end_time": "698.093"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "694.938",
+        "end_time": "695.275"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "699.578",
+        "end_time": "705.535"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "705.805",
+        "end_time": "710.463"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "710.446",
+        "end_time": "711.054"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "711.121",
+        "end_time": "721.9879999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "722.123",
+        "end_time": "731.134"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "732.367",
+        "end_time": "735.168"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "735.168",
+        "end_time": "735.269"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "735.944",
+        "end_time": "746.136"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "744.854",
+        "end_time": "745.0400000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "745.040",
+        "end_time": "745.1239999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "746.963",
+        "end_time": "751.1479999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "751.148",
+        "end_time": "751.705"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "753.157",
+        "end_time": "754.49"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "755.165",
+        "end_time": "761.7289999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "761.729",
+        "end_time": "762.2860000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "765.678",
+        "end_time": "767.956"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "770.993",
+        "end_time": "780.038"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "778.722",
+        "end_time": "792.678"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "792.678",
+        "end_time": "807.41"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "806.498",
+        "end_time": "806.5150000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "807.342",
+        "end_time": "808.641"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "808.557",
+        "end_time": "808.624"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "809.047",
+        "end_time": "832.25"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "833.566",
+        "end_time": "843.894"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "844.501",
+        "end_time": "848.045"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "849.361",
+        "end_time": "850.829"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "850.829",
+        "end_time": "852.8879999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "853.563",
+        "end_time": "855.706"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "857.461",
+        "end_time": "858.6080000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "859.385",
+        "end_time": "861.731"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "863.401",
+        "end_time": "864.447"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "864.447",
+        "end_time": "865.426"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "865.848",
+        "end_time": "909.1659999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "911.208",
+        "end_time": "918.7339999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "919.038",
+        "end_time": "935.542"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "935.660",
+        "end_time": "939.5079999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "940.807",
+        "end_time": "968.836"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "969.275",
+        "end_time": "974.624"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "975.215",
+        "end_time": "990.419"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "983.045",
+        "end_time": "984.159"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "990.892",
+        "end_time": "1006.586"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1001.860",
+        "end_time": "1002.451"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1006.585",
+        "end_time": "1016.6260000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1006.754",
+        "end_time": "1006.7710000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1017.402",
+        "end_time": "1025.688"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1026.818",
+        "end_time": "1031.206"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1031.189",
+        "end_time": "1034.952"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1034.952",
+        "end_time": "1047.912"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1048.958",
+        "end_time": "1058.4920000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1058.729",
+        "end_time": "1066.4750000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1066.424",
+        "end_time": "1066.778"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1066.475",
+        "end_time": "1066.7279999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1066.778",
+        "end_time": "1089.222"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1088.767",
+        "end_time": "1092.125"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1088.935",
+        "end_time": "1089.003"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1091.062",
+        "end_time": "1107.4479999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1095.095",
+        "end_time": "1095.449"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1106.468",
+        "end_time": "1112.492"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1111.295",
+        "end_time": "1111.43"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1111.430",
+        "end_time": "1140.944"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1140.944",
+        "end_time": "1145.517"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1145.787",
+        "end_time": "1158.561"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1158.933",
+        "end_time": "1165.295"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1166.105",
+        "end_time": "1197.492"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1191.012",
+        "end_time": "1193.408"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1197.492",
+        "end_time": "1201.3229999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1200.952",
+        "end_time": "1201.154"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1201.272",
+        "end_time": "1235.0049999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1235.005",
+        "end_time": "1239.5110000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1239.511",
+        "end_time": "1255.036"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1251.627",
+        "end_time": "1252.454"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1255.019",
+        "end_time": "1260.824"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1258.040",
+        "end_time": "1259.339"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1260.824",
+        "end_time": "1277.007"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1277.007",
+        "end_time": "1287.79"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1284.095",
+        "end_time": "1287.301"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1287.335",
+        "end_time": "1316.309"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1297.983",
+        "end_time": "1298.675"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1298.675",
+        "end_time": "1299.0629999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1303.501",
+        "end_time": "1303.9569999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1309.998",
+        "end_time": "1310.96"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1316.309",
+        "end_time": "1318.098"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1317.592",
+        "end_time": "1328.189"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1328.189",
+        "end_time": "1334.939"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1334.939",
+        "end_time": "1335.007"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1335.007",
+        "end_time": "1338.5"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1338.500",
+        "end_time": "1345.385"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1345.233",
+        "end_time": "1345.4859999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1346.212",
+        "end_time": "1346.229"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1346.228",
+        "end_time": "1347.0040000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1347.005",
+        "end_time": "1367.9640000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1363.525",
+        "end_time": "1366.073"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1366.073",
+        "end_time": "1367.3390000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1366.765",
+        "end_time": "1373.4470000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1373.448",
+        "end_time": "1373.499"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1373.498",
+        "end_time": "1382.796"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1374.663",
+        "end_time": "1374.7640000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1380.282",
+        "end_time": "1383.792"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1380.316",
+        "end_time": "1380.5520000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1383.893",
+        "end_time": "1392.634"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1392.517",
+        "end_time": "1392.8880000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1392.888",
+        "end_time": "1416.4959999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1395.183",
+        "end_time": "1395.689"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1416.395",
+        "end_time": "1419.449"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1419.449",
+        "end_time": "1425.507"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1425.507",
+        "end_time": "1432.949"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1432.949",
+        "end_time": "1444.0020000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1444.002",
+        "end_time": "1448.086"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1448.086",
+        "end_time": "1475.019"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1469.737",
+        "end_time": "1470.294"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1475.626",
+        "end_time": "1490.493"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1483.591",
+        "end_time": "1484.452"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1490.493",
+        "end_time": "1506.744"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1497.277",
+        "end_time": "1497.952"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1498.829",
+        "end_time": "1499.96"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1498.863",
+        "end_time": "1499.352"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1506.490",
+        "end_time": "1506.912"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1506.743",
+        "end_time": "1511.485"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1510.051",
+        "end_time": "1514.995"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1511.485",
+        "end_time": "1511.6029999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1514.995",
+        "end_time": "1519.923"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1517.273",
+        "end_time": "1517.442"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1517.442",
+        "end_time": "1536.798"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1530.993",
+        "end_time": "1531.0439999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1536.730",
+        "end_time": "1540.459"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1540.460",
+        "end_time": "1559.124"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1553.521",
+        "end_time": "1553.555"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1559.123",
+        "end_time": "1559.4940000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1559.326",
+        "end_time": "1559.343"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1559.495",
+        "end_time": "1570.379"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1570.447",
+        "end_time": "1584.7569999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1585.516",
+        "end_time": "1587.862"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1586.950",
+        "end_time": "1605.006"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1605.007",
+        "end_time": "1611.673"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1611.672",
+        "end_time": "1611.689"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1612.853",
+        "end_time": "1618.0"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1618.000",
+        "end_time": "1619.822"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1620.498",
+        "end_time": "1654.113"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1641.237",
+        "end_time": "1644.0040000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1642.064",
+        "end_time": "1642.942"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1643.498",
+        "end_time": "1644.6290000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1655.463",
+        "end_time": "1661.673"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1661.437",
+        "end_time": "1662.6689999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1662.668",
+        "end_time": "1680.437"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1680.438",
+        "end_time": "1680.961"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1680.472",
+        "end_time": "1686.243"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1686.243",
+        "end_time": "1687.897"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1688.437",
+        "end_time": "1690.9679999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1690.968",
+        "end_time": "1692.352"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1691.913",
+        "end_time": "1700.097"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1700.097",
+        "end_time": "1703.995"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1703.995",
+        "end_time": "1709.2089999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1705.244",
+        "end_time": "1705.463"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1708.838",
+        "end_time": "1710.694"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1710.577",
+        "end_time": "1713.901"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1713.901",
+        "end_time": "1721.934"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1721.950",
+        "end_time": "1721.967"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1722.592",
+        "end_time": "1723.5030000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1723.503",
+        "end_time": "1727.772"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "2",
+        "start_time": "1728.059",
+        "end_time": "1729.443"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1729.679",
+        "end_time": "1753.996"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1732.328",
+        "end_time": "1732.666"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1743.601",
+        "end_time": "1744.5290000000002"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1753.996",
+        "end_time": "1763.4460000000001"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1763.446",
+        "end_time": "1764.61"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1764.610",
+        "end_time": "1769.1999999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1769.200",
+        "end_time": "1770.314"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "3",
+        "start_time": "1769.774",
+        "end_time": "1793.1799999999998"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "1",
+        "start_time": "1793.062",
+        "end_time": "1795.1209999999999"
+    },
+    {
+        "session_id": "S26",
+        "speaker": "0",
+        "start_time": "1795.576",
+        "end_time": "1800.453"
+    }
+]
