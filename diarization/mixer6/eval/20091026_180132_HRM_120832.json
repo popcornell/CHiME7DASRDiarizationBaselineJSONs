@@ -1,0 +1,3362 @@
+[
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1.662",
+        "end_time": "2.067"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2.725",
+        "end_time": "2.978"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "5.982",
+        "end_time": "7.163"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "7.433",
+        "end_time": "9.323"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "10.083",
+        "end_time": "11.129"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "11.281",
+        "end_time": "12.074"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "12.800",
+        "end_time": "14.116000000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "14.116",
+        "end_time": "14.994"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "15.668",
+        "end_time": "16.747999999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "16.850",
+        "end_time": "17.981"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "18.740",
+        "end_time": "21.389"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "21.524",
+        "end_time": "23.785"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "24.106",
+        "end_time": "25.422"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "25.422",
+        "end_time": "27.43"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "28.493",
+        "end_time": "38.955999999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "38.956",
+        "end_time": "39.901"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "39.901",
+        "end_time": "52.085"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "47.360",
+        "end_time": "47.377"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "47.377",
+        "end_time": "47.782000000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "51.123",
+        "end_time": "54.986999999999995"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "51.848",
+        "end_time": "52.236"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "55.375",
+        "end_time": "57.856"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "58.025",
+        "end_time": "60.943999999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "60.185",
+        "end_time": "65.197"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "60.370",
+        "end_time": "60.387"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "60.944",
+        "end_time": "62.463"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "65.787",
+        "end_time": "67.88000000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "67.458",
+        "end_time": "74.816"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "75.170",
+        "end_time": "77.178"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "79.000",
+        "end_time": "91.555"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "90.593",
+        "end_time": "90.61"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "90.610",
+        "end_time": "108.632"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "108.177",
+        "end_time": "109.29100000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "110.000",
+        "end_time": "129.507"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "129.507",
+        "end_time": "136.61100000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "136.932",
+        "end_time": "142.011"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "142.012",
+        "end_time": "142.113"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "142.940",
+        "end_time": "144.644"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "144.728",
+        "end_time": "151.14100000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "151.748",
+        "end_time": "152.457"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "152.018",
+        "end_time": "152.997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "152.997",
+        "end_time": "160.911"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "160.912",
+        "end_time": "162.39700000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "162.447",
+        "end_time": "174.951"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "174.445",
+        "end_time": "177.736"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "177.736",
+        "end_time": "193.12599999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "193.565",
+        "end_time": "197.143"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "198.661",
+        "end_time": "205.15800000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "206.238",
+        "end_time": "208.499"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "209.900",
+        "end_time": "221.459"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "218.557",
+        "end_time": "218.844"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "222.607",
+        "end_time": "226.252"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "226.690",
+        "end_time": "240.376"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "241.000",
+        "end_time": "242.924"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "243.127",
+        "end_time": "261.993"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "258.668",
+        "end_time": "259.157"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "261.993",
+        "end_time": "263.377"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "262.904",
+        "end_time": "264.406"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "265.351",
+        "end_time": "277.687"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "278.108",
+        "end_time": "281.888"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "281.888",
+        "end_time": "284.2"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "286.107",
+        "end_time": "303.843"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "304.653",
+        "end_time": "316.651"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "313.495",
+        "end_time": "315.098"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "316.634",
+        "end_time": "338.588"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "338.757",
+        "end_time": "344.275"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "344.613",
+        "end_time": "351.903"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "351.397",
+        "end_time": "353.371"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "353.371",
+        "end_time": "354.755"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "354.704",
+        "end_time": "360.053"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "360.053",
+        "end_time": "370.144"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "362.197",
+        "end_time": "364.796"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "369.503",
+        "end_time": "387.45799999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "371.562",
+        "end_time": "371.579"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "372.659",
+        "end_time": "372.84499999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "381.788",
+        "end_time": "382.21000000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "387.458",
+        "end_time": "388.23400000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "389.078",
+        "end_time": "394.09"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "395.187",
+        "end_time": "402.37600000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "402.376",
+        "end_time": "424.077"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "413.547",
+        "end_time": "413.86800000000005"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "424.634",
+        "end_time": "430.28700000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "428.431",
+        "end_time": "428.532"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "430.287",
+        "end_time": "440.024"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "439.619",
+        "end_time": "446.20000000000005"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "445.762",
+        "end_time": "465.506"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "466.248",
+        "end_time": "471.699"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "471.698",
+        "end_time": "473.436"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "472.947",
+        "end_time": "475.765"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "475.715",
+        "end_time": "479.37699999999995"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "478.060",
+        "end_time": "486.869"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "481.570",
+        "end_time": "482.177"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "486.143",
+        "end_time": "491.45899999999995"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "492.168",
+        "end_time": "493.889"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "493.855",
+        "end_time": "500.20000000000005"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "500.842",
+        "end_time": "503.846"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "505.195",
+        "end_time": "509.11"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "509.110",
+        "end_time": "512.688"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "512.114",
+        "end_time": "528.027"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "524.990",
+        "end_time": "525.277"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "528.517",
+        "end_time": "541.173"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "530.626",
+        "end_time": "530.93"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "541.426",
+        "end_time": "541.493"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "541.493",
+        "end_time": "542.927"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "542.928",
+        "end_time": "555.635"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "554.943",
+        "end_time": "569.658"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "564.983",
+        "end_time": "565.405"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "569.607",
+        "end_time": "570.198"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "570.198",
+        "end_time": "581.656"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "579.023",
+        "end_time": "579.496"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "579.496",
+        "end_time": "579.783"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "581.048",
+        "end_time": "589.89"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "590.347",
+        "end_time": "607.408"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "608.723",
+        "end_time": "616.0469999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "616.047",
+        "end_time": "657.104"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "657.104",
+        "end_time": "657.306"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "657.307",
+        "end_time": "657.864"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "657.863",
+        "end_time": "659.922"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "659.433",
+        "end_time": "669.76"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "670.570",
+        "end_time": "675.6320000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "675.633",
+        "end_time": "695.984"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "696.052",
+        "end_time": "707.443"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "708.050",
+        "end_time": "712.303"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "711.425",
+        "end_time": "714.699"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "715.407",
+        "end_time": "715.998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "715.998",
+        "end_time": "719.187"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "718.360",
+        "end_time": "723.541"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "721.195",
+        "end_time": "735.1"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "728.131",
+        "end_time": "728.367"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "736.012",
+        "end_time": "739.8929999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "738.948",
+        "end_time": "738.999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "739.893",
+        "end_time": "740.5"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "740.416",
+        "end_time": "741.6650000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "741.023",
+        "end_time": "742.542"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "742.542",
+        "end_time": "748.144"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "745.360",
+        "end_time": "747.048"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "747.706",
+        "end_time": "780.815"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "781.574",
+        "end_time": "786.8389999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "786.805",
+        "end_time": "791.4789999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "791.480",
+        "end_time": "792.847"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "792.172",
+        "end_time": "814.025"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "813.080",
+        "end_time": "819.7460000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "816.742",
+        "end_time": "817.198"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "817.197",
+        "end_time": "817.281"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "818.716",
+        "end_time": "825.061"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "825.652",
+        "end_time": "828.892"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "829.364",
+        "end_time": "845.615"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "845.615",
+        "end_time": "847.3870000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "847.640",
+        "end_time": "858.592"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "858.592",
+        "end_time": "863.182"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "863.975",
+        "end_time": "865.612"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "865.612",
+        "end_time": "869.5939999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "870.134",
+        "end_time": "875.939"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "875.939",
+        "end_time": "876.918"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "876.918",
+        "end_time": "878.319"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "878.318",
+        "end_time": "883.735"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "883.735",
+        "end_time": "884.072"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "884.056",
+        "end_time": "906.787"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "896.442",
+        "end_time": "896.83"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "896.678",
+        "end_time": "896.745"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "898.653",
+        "end_time": "898.7040000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "901.623",
+        "end_time": "904.0870000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "903.547",
+        "end_time": "904.003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "906.787",
+        "end_time": "907.0740000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "909.048",
+        "end_time": "911.647"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "912.203",
+        "end_time": "915.139"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "916.287",
+        "end_time": "918.076"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "919.612",
+        "end_time": "921.9409999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "923.054",
+        "end_time": "925.3489999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "926.750",
+        "end_time": "928.471"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "929.720",
+        "end_time": "930.969"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "932.453",
+        "end_time": "934.107"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "935.778",
+        "end_time": "937.6170000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "939.052",
+        "end_time": "944.941"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "946.460",
+        "end_time": "948.2660000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "949.750",
+        "end_time": "951.353"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "952.923",
+        "end_time": "954.982"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "955.977",
+        "end_time": "957.631"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "958.829",
+        "end_time": "959.453"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "961.090",
+        "end_time": "964.532"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "965.765",
+        "end_time": "967.638"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "969.055",
+        "end_time": "971.0799999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "972.346",
+        "end_time": "974.253"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "975.485",
+        "end_time": "976.784"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "978.286",
+        "end_time": "980.1419999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "981.374",
+        "end_time": "984.53"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "985.964",
+        "end_time": "986.5210000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "987.955",
+        "end_time": "990.993"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "992.275",
+        "end_time": "996.949"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "998.671",
+        "end_time": "1004.9150000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1006.096",
+        "end_time": "1009.994"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1011.378",
+        "end_time": "1013.7570000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1015.225",
+        "end_time": "1017.301"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1018.533",
+        "end_time": "1020.119"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1021.452",
+        "end_time": "1024.068"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1025.418",
+        "end_time": "1029.2649999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1030.733",
+        "end_time": "1033.3319999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1034.598",
+        "end_time": "1036.7749999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1037.787",
+        "end_time": "1039.998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1040.993",
+        "end_time": "1042.731"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1044.098",
+        "end_time": "1045.482"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1046.275",
+        "end_time": "1047.2540000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1047.963",
+        "end_time": "1050.055"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1051.456",
+        "end_time": "1054.223"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1055.607",
+        "end_time": "1059.91"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1061.463",
+        "end_time": "1064.551"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1065.749",
+        "end_time": "1066.863"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1067.453",
+        "end_time": "1069.545"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1070.474",
+        "end_time": "1072.9879999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1074.372",
+        "end_time": "1077.2240000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1078.625",
+        "end_time": "1079.637"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1081.173",
+        "end_time": "1083.485"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1085.088",
+        "end_time": "1086.657"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1088.108",
+        "end_time": "1089.2559999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1090.302",
+        "end_time": "1091.146"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1092.698",
+        "end_time": "1096.259"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1097.626",
+        "end_time": "1100.562"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1101.423",
+        "end_time": "1103.802"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1105.405",
+        "end_time": "1107.413"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1108.578",
+        "end_time": "1109.557"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1110.839",
+        "end_time": "1113.657"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1114.737",
+        "end_time": "1115.496"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1116.998",
+        "end_time": "1126.718"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1127.410",
+        "end_time": "1130.2450000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1131.562",
+        "end_time": "1134.0929999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1135.460",
+        "end_time": "1137.806"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1138.818",
+        "end_time": "1140.607"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1142.007",
+        "end_time": "1144.741"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1146.293",
+        "end_time": "1147.626"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1148.555",
+        "end_time": "1150.141"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1152.031",
+        "end_time": "1154.225"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1155.845",
+        "end_time": "1157.33"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1158.663",
+        "end_time": "1159.979"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1161.329",
+        "end_time": "1161.9199999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1163.320",
+        "end_time": "1164.788"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1166.392",
+        "end_time": "1167.776"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1169.227",
+        "end_time": "1170.999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1172.618",
+        "end_time": "1173.934"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1176.517",
+        "end_time": "1179.166"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1180.499",
+        "end_time": "1181.107"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1182.473",
+        "end_time": "1184.2949999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1185.578",
+        "end_time": "1189.814"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1190.793",
+        "end_time": "1192.4969999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1193.611",
+        "end_time": "1194.708"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1195.923",
+        "end_time": "1197.931"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1199.332",
+        "end_time": "1201.2050000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1202.673",
+        "end_time": "1203.753"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1204.833",
+        "end_time": "1205.981"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1207.060",
+        "end_time": "1209.203"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1210.992",
+        "end_time": "1213.6409999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1214.924",
+        "end_time": "1217.337"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1218.822",
+        "end_time": "1221.4709999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1223.142",
+        "end_time": "1225.876"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1227.040",
+        "end_time": "1227.867"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1229.369",
+        "end_time": "1230.466"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1232.103",
+        "end_time": "1233.554"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1234.921",
+        "end_time": "1235.815"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1237.233",
+        "end_time": "1239.494"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1240.270",
+        "end_time": "1241.418"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1243.004",
+        "end_time": "1244.7759999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1246.160",
+        "end_time": "1248.0330000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1249.366",
+        "end_time": "1253.737"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1254.682",
+        "end_time": "1256.15"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1257.247",
+        "end_time": "1259.778"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1260.790",
+        "end_time": "1262.984"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1264.233",
+        "end_time": "1265.887"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1267.118",
+        "end_time": "1267.877"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1269.245",
+        "end_time": "1270.443"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1271.725",
+        "end_time": "1272.839"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1274.155",
+        "end_time": "1275.589"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1277.547",
+        "end_time": "1279.133"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1280.872",
+        "end_time": "1283.116"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1285.462",
+        "end_time": "1286.643"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1288.280",
+        "end_time": "1290.119"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1291.486",
+        "end_time": "1292.853"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1294.355",
+        "end_time": "1295.148"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1296.262",
+        "end_time": "1297.561"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1298.911",
+        "end_time": "1301.78"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1303.265",
+        "end_time": "1304.885"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1306.370",
+        "end_time": "1310.6899999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1312.073",
+        "end_time": "1312.9840000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1313.896",
+        "end_time": "1314.622"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1316.461",
+        "end_time": "1318.587"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1319.836",
+        "end_time": "1320.595"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1322.198",
+        "end_time": "1325.556"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1327.497",
+        "end_time": "1329.134"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1330.957",
+        "end_time": "1333.0330000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1334.534",
+        "end_time": "1336.913"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1338.668",
+        "end_time": "1340.895"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1342.398",
+        "end_time": "1344.322"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1345.418",
+        "end_time": "1346.3629999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1347.713",
+        "end_time": "1349.485"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1350.599",
+        "end_time": "1351.831"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1353.299",
+        "end_time": "1357.67"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1358.817",
+        "end_time": "1359.981"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1361.635",
+        "end_time": "1363.036"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1364.318",
+        "end_time": "1366.8319999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1368.031",
+        "end_time": "1370.495"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1371.592",
+        "end_time": "1373.144"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1374.595",
+        "end_time": "1375.489"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1376.857",
+        "end_time": "1378.224"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1379.354",
+        "end_time": "1384.99"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1385.986",
+        "end_time": "1387.488"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1388.433",
+        "end_time": "1390.323"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1391.521",
+        "end_time": "1393.242"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1394.558",
+        "end_time": "1397.039"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1398.153",
+        "end_time": "1399.689"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1400.515",
+        "end_time": "1403.671"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1404.785",
+        "end_time": "1410.539"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1412.007",
+        "end_time": "1412.9180000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1414.471",
+        "end_time": "1420.867"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1421.845",
+        "end_time": "1423.465"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1424.984",
+        "end_time": "1426.4019999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1428.157",
+        "end_time": "1431.886"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1432.696",
+        "end_time": "1434.485"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1435.615",
+        "end_time": "1439.868"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1441.150",
+        "end_time": "1441.707"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1442.956",
+        "end_time": "1444.762"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1446.112",
+        "end_time": "1451.681"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1453.115",
+        "end_time": "1456.996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1458.160",
+        "end_time": "1459.0040000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1460.337",
+        "end_time": "1461.923"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1463.054",
+        "end_time": "1464.826"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1466.092",
+        "end_time": "1468.151"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1469.551",
+        "end_time": "1472.4199999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1473.770",
+        "end_time": "1477.989"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1479.102",
+        "end_time": "1483.27"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1484.249",
+        "end_time": "1486.713"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1487.776",
+        "end_time": "1489.497"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1490.206",
+        "end_time": "1492.282"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1493.024",
+        "end_time": "1495.184"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1497.901",
+        "end_time": "1499.4540000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1499.960",
+        "end_time": "1501.664"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1503.605",
+        "end_time": "1505.259"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1506.406",
+        "end_time": "1511.435"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1512.903",
+        "end_time": "1514.5910000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1516.075",
+        "end_time": "1519.45"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1520.530",
+        "end_time": "1523.8039999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1525.154",
+        "end_time": "1527.213"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1529.069",
+        "end_time": "1529.896"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1531.229",
+        "end_time": "1532.765"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1534.250",
+        "end_time": "1536.275"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1537.777",
+        "end_time": "1539.633"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1541.050",
+        "end_time": "1542.805"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1544.122",
+        "end_time": "1545.404"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1546.788",
+        "end_time": "1548.425"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1549.943",
+        "end_time": "1551.529"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1554.567",
+        "end_time": "1556.187"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1557.267",
+        "end_time": "1561.1480000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1561.942",
+        "end_time": "1562.718"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1564.000",
+        "end_time": "1566.599"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1568.405",
+        "end_time": "1570.329"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1571.965",
+        "end_time": "1572.961"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1574.716",
+        "end_time": "1576.235"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1576.960",
+        "end_time": "1579.491"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1580.858",
+        "end_time": "1584.6209999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1586.157",
+        "end_time": "1587.946"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1589.178",
+        "end_time": "1591.152"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1592.519",
+        "end_time": "1593.515"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1594.477",
+        "end_time": "1597.683"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1598.206",
+        "end_time": "1598.375"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1599.640",
+        "end_time": "1601.226"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1602.155",
+        "end_time": "1604.264"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1605.547",
+        "end_time": "1607.707"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1609.360",
+        "end_time": "1612.482"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1613.883",
+        "end_time": "1614.963"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1616.161",
+        "end_time": "1618.574"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1619.857",
+        "end_time": "1621.781"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1623.333",
+        "end_time": "1625.2230000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1626.792",
+        "end_time": "1628.176"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1630.741",
+        "end_time": "1632.057"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1633.660",
+        "end_time": "1637.153"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1638.841",
+        "end_time": "1640.579"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1641.524",
+        "end_time": "1644.7469999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1645.844",
+        "end_time": "1647.8690000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1649.118",
+        "end_time": "1649.5739999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1651.126",
+        "end_time": "1653.05"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1654.467",
+        "end_time": "1659.968"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1661.150",
+        "end_time": "1663.209"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1663.951",
+        "end_time": "1669.486"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1670.920",
+        "end_time": "1672.979"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1674.211",
+        "end_time": "1675.983"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1677.468",
+        "end_time": "1679.662"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1681.619",
+        "end_time": "1683.61"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1684.943",
+        "end_time": "1689.617"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1690.377",
+        "end_time": "1692.503"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1693.567",
+        "end_time": "1696.79"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1697.954",
+        "end_time": "1700.232"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1701.582",
+        "end_time": "1703.489"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1704.485",
+        "end_time": "1706.223"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1707.674",
+        "end_time": "1711.471"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1712.568",
+        "end_time": "1713.9859999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1715.217",
+        "end_time": "1717.6470000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1718.879",
+        "end_time": "1719.858"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1721.461",
+        "end_time": "1724.144"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1725.747",
+        "end_time": "1726.6750000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1728.076",
+        "end_time": "1731.299"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1733.088",
+        "end_time": "1735.383"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1736.632",
+        "end_time": "1737.425"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1738.943",
+        "end_time": "1740.293"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1741.593",
+        "end_time": "1744.107"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1744.951",
+        "end_time": "1747.651"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1748.849",
+        "end_time": "1750.435"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1752.258",
+        "end_time": "1754.637"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1755.835",
+        "end_time": "1758.467"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1759.970",
+        "end_time": "1762.467"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1764.239",
+        "end_time": "1766.315"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1767.665",
+        "end_time": "1769.319"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1770.685",
+        "end_time": "1775.461"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1776.575",
+        "end_time": "1777.166"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1778.465",
+        "end_time": "1779.764"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1780.895",
+        "end_time": "1782.245"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1783.932",
+        "end_time": "1785.501"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1786.953",
+        "end_time": "1789.822"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1791.256",
+        "end_time": "1792.5890000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1794.074",
+        "end_time": "1796.909"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1798.276",
+        "end_time": "1800.487"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1801.229",
+        "end_time": "1803.558"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1804.503",
+        "end_time": "1805.6509999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "1807.388",
+        "end_time": "1807.405"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1807.405",
+        "end_time": "1808.434"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1808.435",
+        "end_time": "1808.503"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "1808.502",
+        "end_time": "1821.445"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1821.445",
+        "end_time": "1823.048"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1826.913",
+        "end_time": "1829.073"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1836.262",
+        "end_time": "1836.5149999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1848.310",
+        "end_time": "1848.985"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "1851.263",
+        "end_time": "1859.346"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1858.486",
+        "end_time": "1858.9250000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1865.455",
+        "end_time": "1865.877"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1867.463",
+        "end_time": "1868.206"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1887.663",
+        "end_time": "1888.794"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1889.705",
+        "end_time": "1892.793"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1911.457",
+        "end_time": "1911.4910000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1914.815",
+        "end_time": "1916.874"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1923.961",
+        "end_time": "1925.75"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1947.063",
+        "end_time": "1947.6370000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "1951.822",
+        "end_time": "1951.9399999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1951.940",
+        "end_time": "1952.497"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "1955.838",
+        "end_time": "1957.019"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1966.503",
+        "end_time": "1966.925"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1968.747",
+        "end_time": "1969.4560000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "0",
+        "start_time": "1983.867",
+        "end_time": "1987.2079999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "1994.752",
+        "end_time": "1995.495"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "1998.110",
+        "end_time": "2000.118"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2001.637",
+        "end_time": "2002.97"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2006.902",
+        "end_time": "2009.18"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2027.557",
+        "end_time": "2027.996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2027.995",
+        "end_time": "2028.282"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2031.235",
+        "end_time": "2033.4959999999999"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2033.497",
+        "end_time": "2039.3690000000001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2043.841",
+        "end_time": "2044.4489999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2044.448",
+        "end_time": "2044.5320000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2046.592",
+        "end_time": "2047.807"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2047.807",
+        "end_time": "2047.858"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2049.933",
+        "end_time": "2050.574"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2050.574",
+        "end_time": "2055.451"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2058.877",
+        "end_time": "2064.159"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2066.453",
+        "end_time": "2066.858"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2084.881",
+        "end_time": "2086.1639999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2088.948",
+        "end_time": "2090.484"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2094.112",
+        "end_time": "2097.335"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2103.207",
+        "end_time": "2111.594"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2114.817",
+        "end_time": "2115.711"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2117.517",
+        "end_time": "2121.0609999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2124.267",
+        "end_time": "2132.4849999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2134.544",
+        "end_time": "2138.29"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2139.573",
+        "end_time": "2143.252"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2148.297",
+        "end_time": "2149.073"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2153.191",
+        "end_time": "2156.279"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2158.878",
+        "end_time": "2161.0550000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2163.940",
+        "end_time": "2164.986"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2168.193",
+        "end_time": "2169.054"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2177.305",
+        "end_time": "2178.132"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2185.540",
+        "end_time": "2186.485"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2191.008",
+        "end_time": "2197.37"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2203.748",
+        "end_time": "2204.001"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2204.002",
+        "end_time": "2204.998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2204.727",
+        "end_time": "2204.761"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2205.706",
+        "end_time": "2207.005"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2206.499",
+        "end_time": "2220.3199999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2222.463",
+        "end_time": "2225.9900000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2229.854",
+        "end_time": "2233.651"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2242.105",
+        "end_time": "2243.101"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2242.443",
+        "end_time": "2243.0840000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2264.853",
+        "end_time": "2266.102"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2266.827",
+        "end_time": "2273.2900000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2274.539",
+        "end_time": "2278.2850000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2280.952",
+        "end_time": "2281.188"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2284.124",
+        "end_time": "2284.1409999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2284.141",
+        "end_time": "2285.8450000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2288.461",
+        "end_time": "2289.2369999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2295.886",
+        "end_time": "2297.05"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2300.729",
+        "end_time": "2301.455"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2301.961",
+        "end_time": "2302.299"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2307.462",
+        "end_time": "2308.9809999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2311.343",
+        "end_time": "2314.448"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2314.448",
+        "end_time": "2316.929"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2316.929",
+        "end_time": "2317.452"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2317.452",
+        "end_time": "2317.4860000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2318.245",
+        "end_time": "2326.716"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2318.498",
+        "end_time": "2318.886"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2320.658",
+        "end_time": "2320.709"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2332.218",
+        "end_time": "2342.562"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2344.553",
+        "end_time": "2347.7259999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2349.042",
+        "end_time": "2350.038"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2361.209",
+        "end_time": "2362.5589999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2363.470",
+        "end_time": "2374.337"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2380.244",
+        "end_time": "2381.1220000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2382.522",
+        "end_time": "2383.923"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2386.943",
+        "end_time": "2388.0060000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2392.951",
+        "end_time": "2396.984"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2400.207",
+        "end_time": "2410.754"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2414.888",
+        "end_time": "2416.795"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2417.858",
+        "end_time": "2417.8920000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2417.892",
+        "end_time": "2426.8689999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2428.557",
+        "end_time": "2430.4979999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2432.793",
+        "end_time": "2434.481"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2437.180",
+        "end_time": "2440.656"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2441.348",
+        "end_time": "2447.997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2449.330",
+        "end_time": "2454.342"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2455.608",
+        "end_time": "2455.996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2459.185",
+        "end_time": "2463.5389999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2464.231",
+        "end_time": "2473.597"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2474.761",
+        "end_time": "2478.7599999999998"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2479.267",
+        "end_time": "2482.5739999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2482.574",
+        "end_time": "2482.658"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2484.953",
+        "end_time": "2489.476"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2493.560",
+        "end_time": "2499.449"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2501.103",
+        "end_time": "2502.7400000000002"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2504.596",
+        "end_time": "2505.355"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2507.431",
+        "end_time": "2508.848"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2509.827",
+        "end_time": "2511.0930000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2512.679",
+        "end_time": "2513.759"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2513.962",
+        "end_time": "2514.35"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2519.378",
+        "end_time": "2525.335"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2527.310",
+        "end_time": "2530.482"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2527.951",
+        "end_time": "2529.504"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2531.107",
+        "end_time": "2531.917"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2532.541",
+        "end_time": "2533.7050000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2539.325",
+        "end_time": "2539.4939999999997"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2542.379",
+        "end_time": "2542.987"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2553.382",
+        "end_time": "2561.735"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2562.882",
+        "end_time": "2562.9500000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2562.967",
+        "end_time": "2565.4480000000003"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2572.585",
+        "end_time": "2573.311"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2576.382",
+        "end_time": "2577.158"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2582.086",
+        "end_time": "2582.9799999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2584.432",
+        "end_time": "2584.466"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2584.465",
+        "end_time": "2588.768"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2588.633",
+        "end_time": "2588.7169999999996"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2589.730",
+        "end_time": "2589.747"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2589.747",
+        "end_time": "2590.625"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2594.945",
+        "end_time": "2595.839"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2601.155",
+        "end_time": "2602.1000000000004"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "2",
+        "start_time": "2602.555",
+        "end_time": "2603.314"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2606.538",
+        "end_time": "2609.947"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2610.487",
+        "end_time": "2611.263"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "1",
+        "start_time": "2614.132",
+        "end_time": "2614.453"
+    },
+    {
+        "session_id": "20091026_180132_HRM_120832",
+        "speaker": "3",
+        "start_time": "2614.199",
+        "end_time": "2614.317"
+    }
+]

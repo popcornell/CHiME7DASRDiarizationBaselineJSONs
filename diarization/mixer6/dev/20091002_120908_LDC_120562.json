@@ -1,0 +1,1304 @@
+[
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "36.448",
+        "end_time": "56.175"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "56.175",
+        "end_time": "57.288999999999994"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "57.356",
+        "end_time": "59.583"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "58.892",
+        "end_time": "60.883"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "61.895",
+        "end_time": "66.24900000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "66.249",
+        "end_time": "72.28999999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "72.392",
+        "end_time": "75.69999999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "73.185",
+        "end_time": "73.438"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "76.627",
+        "end_time": "81.80799999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "82.382",
+        "end_time": "86.162"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "86.162",
+        "end_time": "89.959"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "89.958",
+        "end_time": "97.349"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "93.519",
+        "end_time": "93.536"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "97.350",
+        "end_time": "97.89"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "97.890",
+        "end_time": "104.606"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "105.551",
+        "end_time": "109.162"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "109.736",
+        "end_time": "112.655"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "112.166",
+        "end_time": "112.571"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "112.183",
+        "end_time": "114.12400000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "113.280",
+        "end_time": "113.398"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "115.406",
+        "end_time": "116.385"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "116.385",
+        "end_time": "128.26500000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "128.265",
+        "end_time": "129.142"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "128.298",
+        "end_time": "129.37800000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "129.800",
+        "end_time": "165.01800000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "141.917",
+        "end_time": "142.238"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "164.394",
+        "end_time": "166.453"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "166.048",
+        "end_time": "171.63400000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "167.077",
+        "end_time": "167.853"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "171.633",
+        "end_time": "179.092"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "174.266",
+        "end_time": "174.40099999999998"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "178.164",
+        "end_time": "184.458"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "183.345",
+        "end_time": "188.256"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "186.618",
+        "end_time": "190.904"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "191.327",
+        "end_time": "196.035"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "191.934",
+        "end_time": "193.807"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "195.056",
+        "end_time": "201.08"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "198.347",
+        "end_time": "198.41400000000002"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "201.080",
+        "end_time": "211.81300000000002"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "211.813",
+        "end_time": "214.378"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "215.576",
+        "end_time": "218.69799999999998"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "218.057",
+        "end_time": "220.521"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "221.111",
+        "end_time": "224.975"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "222.933",
+        "end_time": "228.266"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "228.266",
+        "end_time": "228.772"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "229.953",
+        "end_time": "233.362"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "232.637",
+        "end_time": "246.019"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "234.628",
+        "end_time": "235.48899999999998"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "245.445",
+        "end_time": "262.253"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "263.703",
+        "end_time": "268.917"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "264.362",
+        "end_time": "264.396"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "264.395",
+        "end_time": "264.90099999999995"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "269.812",
+        "end_time": "274.45300000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "274.453",
+        "end_time": "276.647"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "276.647",
+        "end_time": "278.2"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "277.389",
+        "end_time": "278.874"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "279.836",
+        "end_time": "284.915"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "283.076",
+        "end_time": "283.66700000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "286.198",
+        "end_time": "288.375"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "288.560",
+        "end_time": "326.697"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "326.698",
+        "end_time": "330.799"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "326.732",
+        "end_time": "326.951"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "328.807",
+        "end_time": "329.33000000000004"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "331.895",
+        "end_time": "336.671"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "335.034",
+        "end_time": "335.085"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "335.085",
+        "end_time": "335.35499999999996"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "336.519",
+        "end_time": "344.72"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "345.227",
+        "end_time": "349.513"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "349.732",
+        "end_time": "358.18600000000004"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "350.930",
+        "end_time": "352.634"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "359.233",
+        "end_time": "364.397"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "364.397",
+        "end_time": "364.58299999999997"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "365.038",
+        "end_time": "387.195"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "387.600",
+        "end_time": "394.367"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "394.653",
+        "end_time": "397.77500000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "398.822",
+        "end_time": "401.404"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "400.222",
+        "end_time": "401.791"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "402.348",
+        "end_time": "403.934"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "404.306",
+        "end_time": "405.453"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "406.010",
+        "end_time": "410.431"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "411.022",
+        "end_time": "421.484"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "411.950",
+        "end_time": "412.23699999999997"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "416.895",
+        "end_time": "417.806"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "420.928",
+        "end_time": "424.573"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "425.079",
+        "end_time": "436.318"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "426.446",
+        "end_time": "427.96500000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "437.178",
+        "end_time": "445.734"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "446.983",
+        "end_time": "450.67900000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "451.337",
+        "end_time": "455.775"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "456.855",
+        "end_time": "457.63100000000003"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "458.559",
+        "end_time": "460.196"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "460.770",
+        "end_time": "463.065"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "463.031",
+        "end_time": "498.384"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "470.726",
+        "end_time": "471.283"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "498.755",
+        "end_time": "500.949"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "501.877",
+        "end_time": "504.577"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "504.678",
+        "end_time": "540.369"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "541.415",
+        "end_time": "544.419"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "541.719",
+        "end_time": "541.7700000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "544.419",
+        "end_time": "550.393"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "550.393",
+        "end_time": "554.46"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "554.460",
+        "end_time": "564.264"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "565.412",
+        "end_time": "575.942"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "576.988",
+        "end_time": "577.4770000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "578.355",
+        "end_time": "581.899"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "581.898",
+        "end_time": "586.4540000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "586.455",
+        "end_time": "592.547"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "592.547",
+        "end_time": "593.475"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "593.103",
+        "end_time": "600.477"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "593.373",
+        "end_time": "593.3900000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "601.558",
+        "end_time": "606.4689999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "604.882",
+        "end_time": "606.2149999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "606.975",
+        "end_time": "617.741"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "616.425",
+        "end_time": "617.454"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "618.669",
+        "end_time": "621.403"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "622.297",
+        "end_time": "626.701"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "627.478",
+        "end_time": "628.6759999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "629.553",
+        "end_time": "631.882"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "631.882",
+        "end_time": "632.4559999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "633.080",
+        "end_time": "635.932"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "636.540",
+        "end_time": "637.2149999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "638.733",
+        "end_time": "640.9599999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "641.737",
+        "end_time": "647.829"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "647.238",
+        "end_time": "648.3850000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "648.386",
+        "end_time": "649.972"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "649.972",
+        "end_time": "649.989"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "650.867",
+        "end_time": "651.896"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "651.339",
+        "end_time": "662.4770000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "651.896",
+        "end_time": "651.947"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "665.042",
+        "end_time": "675.133"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "674.745",
+        "end_time": "677.901"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "679.183",
+        "end_time": "684.161"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "684.667",
+        "end_time": "689.443"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "689.443",
+        "end_time": "690.624"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "691.282",
+        "end_time": "695.383"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "696.969",
+        "end_time": "699.6020000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "700.462",
+        "end_time": "702.588"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "702.588",
+        "end_time": "712.3589999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "704.850",
+        "end_time": "705.407"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "712.916",
+        "end_time": "725.235"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "722.653",
+        "end_time": "722.957"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "722.957",
+        "end_time": "723.092"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "724.543",
+        "end_time": "732.626"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "732.322",
+        "end_time": "733.925"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "733.740",
+        "end_time": "733.824"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "735.984",
+        "end_time": "737.148"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "737.081",
+        "end_time": "747.678"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "748.303",
+        "end_time": "749.096"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "748.893",
+        "end_time": "749.197"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "749.889",
+        "end_time": "753.011"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "753.416",
+        "end_time": "758.0060000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "756.437",
+        "end_time": "756.471"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "756.470",
+        "end_time": "756.909"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "758.377",
+        "end_time": "774.1379999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "774.425",
+        "end_time": "781.563"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "777.277",
+        "end_time": "777.868"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "781.530",
+        "end_time": "797.848"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "782.897",
+        "end_time": "783.893"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "784.888",
+        "end_time": "784.922"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "798.742",
+        "end_time": "799.704"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "800.548",
+        "end_time": "806.826"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "807.652",
+        "end_time": "810.6560000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "807.956",
+        "end_time": "808.091"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "808.091",
+        "end_time": "811.55"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "811.466",
+        "end_time": "818.553"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "817.440",
+        "end_time": "818.368"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "818.368",
+        "end_time": "819.397"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "819.920",
+        "end_time": "825.961"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "826.653",
+        "end_time": "835.951"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "832.121",
+        "end_time": "832.155"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "835.952",
+        "end_time": "840.8629999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "841.014",
+        "end_time": "843.393"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "841.925",
+        "end_time": "842.9879999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "844.490",
+        "end_time": "856.809"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "857.349",
+        "end_time": "864.69"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "867.373",
+        "end_time": "872.9250000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "868.942",
+        "end_time": "869.668"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "876.553",
+        "end_time": "877.852"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "878.848",
+        "end_time": "881.7669999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "882.273",
+        "end_time": "887.69"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "888.197",
+        "end_time": "895.808"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "896.820",
+        "end_time": "905.6120000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "899.081",
+        "end_time": "899.908"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "906.084",
+        "end_time": "915.467"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "915.905",
+        "end_time": "920.0219999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "920.208",
+        "end_time": "929.4889999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "929.777",
+        "end_time": "936.1560000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "936.543",
+        "end_time": "959.966"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "957.435",
+        "end_time": "958.313"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "958.312",
+        "end_time": "958.4300000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "959.088",
+        "end_time": "960.826"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "961.502",
+        "end_time": "963.9319999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "963.932",
+        "end_time": "970.463"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "971.390",
+        "end_time": "974.816"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "976.132",
+        "end_time": "979.3889999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "978.039",
+        "end_time": "978.7139999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "979.389",
+        "end_time": "981.718"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "982.359",
+        "end_time": "988.4000000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "987.607",
+        "end_time": "996.466"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "991.725",
+        "end_time": "992.333"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "997.158",
+        "end_time": "1002.035"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "1002.035",
+        "end_time": "1005.2579999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1004.651",
+        "end_time": "1010.034"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "1010.034",
+        "end_time": "1017.83"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1017.155",
+        "end_time": "1019.399"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1020.227",
+        "end_time": "1031.128"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1031.735",
+        "end_time": "1032.6129999999998"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1034.317",
+        "end_time": "1039.531"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "1039.768",
+        "end_time": "1045.387"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1041.540",
+        "end_time": "1042.384"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1045.387",
+        "end_time": "1047.7659999999998"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1048.593",
+        "end_time": "1057.6380000000001"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "2",
+        "start_time": "1055.040",
+        "end_time": "1055.546"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1058.415",
+        "end_time": "1067.325"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "1",
+        "start_time": "1067.325",
+        "end_time": "1068.439"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1071.712",
+        "end_time": "1072.3029999999999"
+    },
+    {
+        "session_id": "20091002_120908_LDC_120562",
+        "speaker": "0",
+        "start_time": "1073.602",
+        "end_time": "1079.154"
+    }
+]
